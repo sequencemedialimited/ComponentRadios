@@ -1,0 +1,30 @@
+{
+  "_id": "page.radios-without-values",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.radios-without-values--radios.auto_name__2",
+      "_type": "radios",
+      "hint": "Radios hint text",
+      "items": [
+        {
+          "_id": "page.radios-without-values--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "hint": "Radio hint text",
+          "label": "Yes",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.radios-without-values--radios.auto_name__2--radio.auto_value__4",
+          "_type": "radio",
+          "hint": "Radio hint text",
+          "label": "No",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "Radios with default values",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "radios-with-default-values"
+}

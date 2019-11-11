@@ -4,7 +4,9 @@
   "heading": "Component - Radios",
   "steps": [
     "page.radios",
-    "page.check-answers"
+    "page.radios-without-values",
+    "page.check-answers",
+    "page.confirmation"
   ],
   "url": "/"
 }

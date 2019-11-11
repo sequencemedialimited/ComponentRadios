@@ -12,14 +12,14 @@
           "_type": "radio",
           "hint": "Radio hint text",
           "label": "Yes",
-          "value": "auto_value__1"
+          "value": "yes"
         },
         {
           "_id": "page.radios--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "hint": "Radio hint text",
           "label": "No",
-          "value": "auto_value__2"
+          "value": "no"
         }
       ],
       "legend": "Radios",
