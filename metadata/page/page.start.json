@@ -4,7 +4,8 @@
   "heading": "Component - Radios",
   "steps": [
     "page.radios",
-    "page.radios-without-values",
+    "page.radios-with-values",
+    "page.radios-with-name",
     "page.check-answers",
     "page.confirmation"
   ],
