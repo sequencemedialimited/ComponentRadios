@@ -3,11 +3,12 @@
   "_type": "page.start",
   "heading": "Component - Radios",
   "steps": [
-    "page.radios",
-    "page.radios-with-values",
-    "page.radios-with-name",
-    "page.check-answers",
-    "page.confirmation"
+    "page.radios-first",
+    "page.radios-second",
+    "page.radios-third",
+    "page.radios-fourth",
+    "page.radios-summary",
+    "page.radios-confirmation"
   ],
   "url": "/"
 }
